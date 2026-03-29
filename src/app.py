@@ -9,7 +9,6 @@ app = FastAPI(title="Machine Failure Prediction API")
 def home():
     return {"message": "Machine Failure Prediction API is running"}
 
-
 @app.post("/predict")
 def predict_single(data: dict):
     try:
