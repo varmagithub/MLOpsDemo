@@ -1,0 +1,9 @@
+.venv312
+.venv
+venv
+__pycache__
+*.pyc
+mlruns
+artifacts
+.git
+.gitignore

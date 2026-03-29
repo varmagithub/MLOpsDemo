@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ravigadiraju/Documents/MLOpsDemo/mlruns/106449189006489737/models/m-5f89bd1192594958910a68c7a5ce0da8/artifacts
+creation_timestamp: 1774712397370
+experiment_id: '106449189006489737'
+last_updated_timestamp: 1774712398979
+model_id: m-5f89bd1192594958910a68c7a5ce0da8
+model_type: null
+name: model
+source_run_id: 66f49843096342e6b54be4cc0717ddb6
+status: 2
+status_message: null
